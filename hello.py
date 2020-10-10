@@ -8,7 +8,7 @@ def hello(what):
 
 def say_what():
     print('Xdddd')
-    return 'worldddd'
+    return 'world'
 
 
 def main():
